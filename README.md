@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A frontend developer from Canada with a passion for film.</h3>
 
+- ➡️ Currently working freelance
+
 - 💬 Ask me about **react, or the name of the actor in that movie you liked**
 
 - ⚡ Fun fact **I also know how to fight with a sword.**
