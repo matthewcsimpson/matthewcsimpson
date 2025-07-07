@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A frontend developer from Canada with a passion for film.</h3>
+<h3 align="center">A frontend focussed full stack developer from Canada with a passion for film.</h3>
 
 - ➡️ Currently working with [🚀 Skyrocket](https://skyrocketdigital.com)
 
